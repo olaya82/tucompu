@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/tucompu/static/css/main.0b4e74b4.css",
-    "main.js": "/tucompu/static/js/main.2626b0be.js",
+    "main.js": "/tucompu/static/js/main.bbd184e8.js",
     "static/js/787.878be043.chunk.js": "/tucompu/static/js/787.878be043.chunk.js",
     "static/media/logo_uno.png": "/tucompu/static/media/logo_uno.5943b82c199b5846c573.png",
     "index.html": "/tucompu/index.html",
     "main.0b4e74b4.css.map": "/tucompu/static/css/main.0b4e74b4.css.map",
-    "main.2626b0be.js.map": "/tucompu/static/js/main.2626b0be.js.map",
+    "main.bbd184e8.js.map": "/tucompu/static/js/main.bbd184e8.js.map",
     "787.878be043.chunk.js.map": "/tucompu/static/js/787.878be043.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b4e74b4.css",
-    "static/js/main.2626b0be.js"
+    "static/js/main.bbd184e8.js"
   ]
 }
