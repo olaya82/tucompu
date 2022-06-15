@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tucompu/static/css/main.073c9b0a.css",
-    "main.js": "/tucompu/static/js/main.02d866fd.js",
+    "main.css": "/tucompu/static/css/main.0b4e74b4.css",
+    "main.js": "/tucompu/static/js/main.2626b0be.js",
     "static/js/787.878be043.chunk.js": "/tucompu/static/js/787.878be043.chunk.js",
-    "static/media/logo.svg": "/tucompu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo_uno.png": "/tucompu/static/media/logo_uno.5943b82c199b5846c573.png",
     "index.html": "/tucompu/index.html",
-    "main.073c9b0a.css.map": "/tucompu/static/css/main.073c9b0a.css.map",
-    "main.02d866fd.js.map": "/tucompu/static/js/main.02d866fd.js.map",
+    "main.0b4e74b4.css.map": "/tucompu/static/css/main.0b4e74b4.css.map",
+    "main.2626b0be.js.map": "/tucompu/static/js/main.2626b0be.js.map",
     "787.878be043.chunk.js.map": "/tucompu/static/js/787.878be043.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.02d866fd.js"
+    "static/css/main.0b4e74b4.css",
+    "static/js/main.2626b0be.js"
   ]
 }
