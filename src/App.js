@@ -6,7 +6,9 @@ import MainBar from './components/MainBar';
 function App() {
   return (
     <div>
-      <MainBar />  
+      
+      <MainBar />
+        
     </div>
   );
 }
